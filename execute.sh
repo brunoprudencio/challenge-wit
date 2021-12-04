@@ -1,0 +1,1 @@
+bash -c "docker-compose up -d && ./gradlew clean build && java -jar rest/build/libs/rest-0.0.1-SNAPSHOT.jar & java -jar calculator/build/libs/calculator-0.0.1-SNAPSHOT.jar"
