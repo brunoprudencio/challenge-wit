@@ -12,6 +12,7 @@ import org.mockito.InjectMocks;
 import org.mockito.junit.jupiter.MockitoExtension;
 
 import com.challenge.calculator.dtos.CalcRequest;
+import com.challenge.calculator.models.Calculator;
 import com.challenge.calculator.models.MathOperators;
 
 @ExtendWith(MockitoExtension.class)

@@ -1,4 +1,4 @@
-package com.challenge.calculator.services;
+package com.challenge.calculator.models;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
